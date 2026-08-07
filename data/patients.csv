@@ -1,0 +1,101 @@
+patient_id,age,gender,city,goal
+1,58,F,São Paulo,Bariátrica
+2,33,F,Guarulhos,Emagrecimento
+3,61,F,São Bernardo,Nutrição Esportiva
+4,20,F,São Paulo,Diabetes
+5,32,F,São Bernardo,Diabetes
+6,63,M,Guarulhos,Nutrição Esportiva
+7,55,M,São Paulo,Diabetes
+8,62,M,Osasco,Bariátrica
+9,27,F,Osasco,Emagrecimento
+10,23,M,São Paulo,Bariátrica
+11,72,M,São Bernardo,Bariátrica
+12,69,F,Santo André,Reeducação Alimentar
+13,25,M,São Paulo,Reeducação Alimentar
+14,36,M,São Bernardo,Diabetes
+15,63,F,São Paulo,Diabetes
+16,67,M,São Paulo,Diabetes
+17,73,F,Santo André,Bariátrica
+18,47,M,Guarulhos,Bariátrica
+19,40,F,Osasco,Emagrecimento
+20,56,F,São Bernardo,Diabetes
+21,28,M,Santo André,Bariátrica
+22,58,F,Osasco,Emagrecimento
+23,32,F,Osasco,Nutrição Esportiva
+24,35,F,Guarulhos,Reeducação Alimentar
+25,74,M,Guarulhos,Nutrição Esportiva
+26,43,M,Guarulhos,Bariátrica
+27,26,F,São Bernardo,Reeducação Alimentar
+28,34,M,São Bernardo,Nutrição Esportiva
+29,41,F,Guarulhos,Reeducação Alimentar
+30,49,F,São Paulo,Emagrecimento
+31,27,F,Santo André,Reeducação Alimentar
+32,22,M,Santo André,Reeducação Alimentar
+33,47,M,São Bernardo,Emagrecimento
+34,61,F,São Bernardo,Bariátrica
+35,67,M,São Paulo,Bariátrica
+36,45,F,Santo André,Emagrecimento
+37,64,M,São Bernardo,Diabetes
+38,50,F,Osasco,Reeducação Alimentar
+39,56,F,Guarulhos,Bariátrica
+40,66,F,São Bernardo,Reeducação Alimentar
+41,18,M,Santo André,Emagrecimento
+42,25,M,Osasco,Diabetes
+43,21,F,São Bernardo,Emagrecimento
+44,23,M,São Paulo,Reeducação Alimentar
+45,67,F,Guarulhos,Nutrição Esportiva
+46,53,F,Osasco,Reeducação Alimentar
+47,73,M,Guarulhos,Reeducação Alimentar
+48,66,F,Osasco,Nutrição Esportiva
+49,60,M,Santo André,Reeducação Alimentar
+50,46,F,Guarulhos,Diabetes
+51,22,M,São Paulo,Reeducação Alimentar
+52,53,F,São Bernardo,Diabetes
+53,18,F,São Paulo,Diabetes
+54,22,F,Osasco,Emagrecimento
+55,50,F,Osasco,Nutrição Esportiva
+56,31,F,São Bernardo,Reeducação Alimentar
+57,48,F,Santo André,Nutrição Esportiva
+58,30,F,São Paulo,Nutrição Esportiva
+59,40,M,Santo André,Nutrição Esportiva
+60,73,F,São Paulo,Emagrecimento
+61,43,M,São Paulo,Diabetes
+62,30,F,São Bernardo,Nutrição Esportiva
+63,26,M,Guarulhos,Bariátrica
+64,47,F,São Paulo,Nutrição Esportiva
+65,69,F,São Paulo,Reeducação Alimentar
+66,71,F,São Paulo,Diabetes
+67,28,M,Santo André,Nutrição Esportiva
+68,31,M,São Paulo,Diabetes
+69,42,F,Santo André,Bariátrica
+70,68,M,Osasco,Nutrição Esportiva
+71,62,M,Guarulhos,Diabetes
+72,36,F,São Paulo,Reeducação Alimentar
+73,65,F,Osasco,Emagrecimento
+74,21,M,São Bernardo,Reeducação Alimentar
+75,28,F,São Bernardo,Emagrecimento
+76,72,F,São Paulo,Reeducação Alimentar
+77,22,F,Santo André,Emagrecimento
+78,74,F,São Bernardo,Reeducação Alimentar
+79,20,F,Santo André,Reeducação Alimentar
+80,54,M,Osasco,Diabetes
+81,60,M,Guarulhos,Bariátrica
+82,43,F,Osasco,Nutrição Esportiva
+83,38,F,São Paulo,Nutrição Esportiva
+84,57,F,São Paulo,Reeducação Alimentar
+85,31,M,Guarulhos,Bariátrica
+86,74,F,Guarulhos,Bariátrica
+87,36,F,Santo André,Reeducação Alimentar
+88,63,M,São Bernardo,Reeducação Alimentar
+89,18,M,São Paulo,Diabetes
+90,34,F,São Paulo,Reeducação Alimentar
+91,27,M,Osasco,Reeducação Alimentar
+92,31,M,Guarulhos,Bariátrica
+93,50,M,Osasco,Emagrecimento
+94,23,M,Osasco,Emagrecimento
+95,18,M,Guarulhos,Bariátrica
+96,28,M,São Bernardo,Nutrição Esportiva
+97,53,F,São Paulo,Emagrecimento
+98,74,F,São Bernardo,Emagrecimento
+99,71,M,São Bernardo,Reeducação Alimentar
+100,27,M,Guarulhos,Emagrecimento
