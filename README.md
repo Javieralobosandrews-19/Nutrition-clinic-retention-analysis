@@ -92,26 +92,29 @@ nutrition-clinic-retention-analysis/
 ├── assets/
 │   └── dashboard-preview.png
 ├── data/
-│   └── README.md
+│   ├── README.md
+│   ├── patients.csv
+│   ├── consultations.csv
+│   ├── nutritionists.csv
+│   └── payments.csv
 ├── demo/
 │   └── dashboard_powerbi_demo.mp4
 ├── docs/
+│   ├── README.md
 │   └── data_driven_nutrition_presentation.pdf
 ├── powerbi/
 │   └── README.md
 └── sql/
     └── analysis_queries.sql
-```
 
 ## Como executar
 
 1. Clone o repositório.
-2. Adicione os quatro arquivos simulados na pasta `data/` com os nomes indicados em `data/README.md`.
-3. Instale as dependências:
+
+2. Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
-```
 
 4. Abra e execute `nutrition_clinic_retention_analysis.ipynb`.
 
